@@ -23,11 +23,11 @@ employee attrition patterns.
 - Microsoft Excel (Data Cleaning)
 - Power BI Slicers (Department filters)
 - Power BI Visualizations:
-- Donut Chart (Attrition by Education)
-- Bar Chart (Attrition by Age)
-- Line Chart (Attrition by Years)
-- Matrix Table (Job Role wise)
-- Horizontal Bar (Salary & Job Role)
+ - Donut Chart (Attrition by Education)
+ - Bar Chart (Attrition by Age)
+ - Line Chart (Attrition by Years)
+ - Matrix Table (Job Role wise)
+ - Horizontal Bar (Salary & Job Role)
 
 ##  Files in this Repository
 - HR_Analytics.csv — Raw dataset (1,470 records)
