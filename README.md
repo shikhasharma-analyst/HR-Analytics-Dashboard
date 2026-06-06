@@ -6,7 +6,7 @@ Why are employees leaving the company?
 ##  Project Overview
 Built an interactive HR Analytics Dashboard in Power BI 
 analyzing 1,470 employee records to understand 
-employee attrition patterns.
+employee attrition patterns. 
 
 ##  Key Findings
 -  16.1% attrition rate — 237/1,470 employees left
